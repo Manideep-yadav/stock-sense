@@ -127,3 +127,12 @@ numbers stay easy to scan in tables.
 - Per-warehouse role scoping (a Warehouse Staff account tied to one site).
 - Swap SQLite for Postgres and add multi-user concurrency handling for a
   production deployment.
+
+  ## Team Members
+
+| Name | Role |
+|--------|--------|
+| Manideep Yadav | Project Lead & Full Stack Developer |
+| Sri Vyshnavi | Frontend Developer & UI Designer |
+| Veds Vyas | Backend Developer & Database Engineer |
+| Nishant | Testing, Documentation & Deployment Engineer |
